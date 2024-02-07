@@ -4,9 +4,7 @@ let
 in {
   # pkgs is pinned to 19.09 in mavenix-src,
   # replace/invoke with <nixpkgs> or /path/to/your/nixpkgs_checkout
-  system,
-  jdk,
-  pkgs ? (import mavenix-src { localSystem = system; }).pkgs,
+  pkgs ? (import mavenix-src {}).pkgs,
   mavenix ? import mavenix-src { inherit pkgs; },
   src ? ./.,
   doCheck ? true,
@@ -44,7 +42,7 @@ in {
 
   # Override which maven package to build with
   #
-  maven = pkgs.maven.overrideAttrs (_: { inherit jdk; });
+  #maven = maven.overrideAttrs (_: { jdk = pkgs.oraclejdk10; });
 
   # Override remote repository URLs and settings.xml
   #

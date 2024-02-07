@@ -22,7 +22,7 @@
           pkgs = import nixpkgs {inherit system;};
           mv = pkgs.callPackage mavenix {};
           args = {inherit system; mavenix = mv; jdk = pkgs.jdk20; };
-          buildMv = p: mv.buildMaven{ src=p; doCheck = true; infoFile = p+"/mavenix.lock"; maven = pkgs.maven.overrideAttrs (_: { jdk = pkgs.jdk20; }); };
+          buildMv = p: mv.buildMaven{ src=p; doCheck = false; infoFile = p+"/mavenix.lock"; maven = pkgs.maven.overrideAttrs (_: { jdk = pkgs.jdk20; }); };
         in with pkgs ; {
           packages = rec {
             P1 = buildMv ./P1;

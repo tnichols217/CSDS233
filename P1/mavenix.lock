@@ -1126,12 +1126,12 @@
       "sha1": "7680673d38553a4e6ceefb232c00e2301d9cbd5e"
     },
     {
-      "path": "org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.jar",
-      "sha1": "025468bdffb3d04eb051ca5e0b33d7e8bb10381e"
+      "path": "org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.jar",
+      "sha1": "63d1dd017bfecc64a7b68b964e39e8d9f8f11a14"
     },
     {
-      "path": "org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom",
-      "sha1": "7ebd2eb7c940e24207e910bf4f6491cd38acea5e"
+      "path": "org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom",
+      "sha1": "f0bfc47221f365d6812e6c4091227f6425268980"
     },
     {
       "path": "org/apache/maven/plugin-tools/maven-plugin-annotations/3.5.2/maven-plugin-annotations-3.5.2.jar",
@@ -1334,40 +1334,40 @@
       "sha1": "9347480fc0b3162e873c3a1f83af76ee1f909924"
     },
     {
-      "path": "org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.jar",
-      "sha1": "1acb6da44a9daa8c5014b99694fa6399cca117be"
+      "path": "org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.jar",
+      "sha1": "d22aaa69c65e96cd9d87f779e45df76fb5040108"
     },
     {
-      "path": "org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.pom",
-      "sha1": "e1139157811e0180384be0961db8f85b8889fd50"
+      "path": "org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.pom",
+      "sha1": "7024a6391c6869c06e7b801c9553553884df2fdb"
     },
     {
-      "path": "org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom",
-      "sha1": "535508195981dabd311b01bb70daf7558eaf0ea4"
+      "path": "org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom",
+      "sha1": "2bf172bb2ad3375d96a945775254a5d23f82612e"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.jar",
-      "sha1": "f45dfd7e85ac8fec9fdb0284538cdfcbf1aa952e"
+      "path": "org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.jar",
+      "sha1": "273caddf446705ccceada91064e7266eb8517608"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.pom",
-      "sha1": "f3dc1551e258449146445e3805f55218419d8ea8"
+      "path": "org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.pom",
+      "sha1": "49b34d166f30020a893551f058148e559779daf2"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.jar",
-      "sha1": "4ff9fe0ca00dccd222b70e5dae971d72fa8f32e2"
+      "path": "org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.jar",
+      "sha1": "84f8a93e76a7991f7f57d0e3905d8cf76176d3f5"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.pom",
-      "sha1": "492ab6e8a716d1c3a66b4f81ccb3f4ac5efe891c"
+      "path": "org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.pom",
+      "sha1": "378a14fb78a3ba2d3efbb8cce8370937d65d39e3"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.jar",
-      "sha1": "043464335fab07425ae4b639bc7d04f752d97348"
+      "path": "org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.jar",
+      "sha1": "7c1513509a6f386711cfe21f50127a2641986163"
     },
     {
-      "path": "org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.pom",
-      "sha1": "7e52c938de8b1b7bcaad918272d66d9cfdbd2d4b"
+      "path": "org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.pom",
+      "sha1": "8170e8a3cd87c73fb8c97233b57d8ea4000dc8bf"
     },
     {
       "path": "org/apache/maven/wagon/wagon/1.0-alpha-6/wagon-1.0-alpha-6.pom",
