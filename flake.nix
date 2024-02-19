@@ -24,7 +24,8 @@
       in with pkgs ; {
         packages = rec {
           P1 = buildMv ./P1;
-          default = P1;
+          P2 = buildMv ./P2;
+          default = P2;
         };
         devShells = rec {
           java = pkgs.mkShell {
