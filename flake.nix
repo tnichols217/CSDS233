@@ -25,7 +25,9 @@
         packages = rec {
           P1 = buildMv ./P1;
           P2 = buildMv ./P2;
-          default = P2;
+          P3 = buildMv ./P3;
+          P4 = buildMv ./P4;
+          default = P3;
         };
         devShells = rec {
           java = pkgs.mkShell {
